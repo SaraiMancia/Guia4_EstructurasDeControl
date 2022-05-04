@@ -21,7 +21,7 @@ public class CompuSmart {
     public static void CalcularcComision(double valorV) {
         double comision,salario=300,salarioL,Renta,salarioT=0.0;
         if(valorV >=3000){
-            comision=salario*10/100;
+            comision=valorV*10/100;
             salarioL=salario+comision;
             Renta=salarioL*10/100;
             salarioT=salarioL-Renta;
