@@ -9,7 +9,7 @@ Scanner sc=new Scanner(System.in);
 double importe=0;
 do{
 try{
-System.out.println("Ingresar el tiempo de la llamda en minutos:");
+System.out.println("Introducir el tiempo de la llamda en minutos:");
 int tiempo=sc.nextInt();
 System.out.println("Monto a Pagar:");
 if (tiempo==3){
