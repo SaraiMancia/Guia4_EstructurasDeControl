@@ -50,7 +50,7 @@ public class DepreciacionMaquinaria {
         this.tiempoD = tiempoD;
     }
     
-    //Formula (V(V+1))/2
+    //Formula a aplicar (V(V+1))/2
     
     public double formula() {
         double Formula;
