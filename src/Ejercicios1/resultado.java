@@ -1,6 +1,7 @@
 
 package Ejercicios1;
 
+import Ejercicios2.DepreciacionMaquinaria;
 import java.util.Scanner;
 
 

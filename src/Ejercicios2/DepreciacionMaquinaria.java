@@ -1,5 +1,5 @@
 
-package Ejercicios1;
+package Ejercicios2;
 
 
 public class DepreciacionMaquinaria {
